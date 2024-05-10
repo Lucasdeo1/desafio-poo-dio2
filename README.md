@@ -1,9 +1,5 @@
 ## Desafio poo 
 
-Claro! Um README pode ser muito útil para explicar o que está acontecendo em um projeto. Aqui está um exemplo do que você poderia incluir:
-
----
-
 # Sistema de Gestão Escolar
 
 Este é um sistema de gestão escolar simples desenvolvido em Java. Ele gerencia alunos, professores e escolas, permitindo que os alunos se inscrevam em escolas e progridam em seus estudos.
